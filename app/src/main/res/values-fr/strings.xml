@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ma Forme</string>
+    <string name="name">Nom</string>
+    <string name="email">Courrier adresse</string>
+    <string name="cell">Numero portable</string>
+    <string name="phone">Numero telephone</string>
+    <string name="message">Message</string>
+    <string name="click_me">Appuie Moi!</string>
+</resources>

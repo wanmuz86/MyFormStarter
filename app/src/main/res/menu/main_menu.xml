@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/about_us" android:id="@+id/about_us" />
+    <item android:title="@string/send_email" android:id="@+id/send_email" />
+    <item android:title="@string/contact_us" android:id="@+id/contact_us" />
+    <item android:title="@string/check_version_number" android:id="@+id/check_version" />
+    <item android:title="@string/quit"  android:id="@+id/quit"/>
+</menu>
